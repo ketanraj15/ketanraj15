@@ -26,17 +26,18 @@
 
 </br></br>
 
-- 🌱 I’m currently exploring **Software Design and Architecture**
+🔍 I’m currently exploring **Software Design and Architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stenzr](https://github.com/ketanraj15)
+💻 All of my projects are available at [My GitHub Profile](https://github.com/ketanraj15)
 
-- 💬 Ask me about **SpringBoot, Kafka, Redis Cache, MySql, SpringAI, mongoDB, Authentications**
+💬 Ask me about **Spring Boot, Kafka, Redis Cache, MySQL, SpringAI, MongoDB, and Authentication**
 
-- 📫 How to reach me **ketanrajmath@gmail.com**
+📧 How to reach me: **ketanrajmath@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ketanraj15/](https://github.com/ketanraj15/)
+🧠 Let’s discuss **Tech, Maths, and Chess**
 
-- 🐢  **Lazy Kachua**
+🐢  **Lazy Kachua**
+
 </br>
 </br></br>
 <h3 align="center">Tools I have experience with:</h3>
