@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdxMXdrazZ4bWF2NHM4MTN1dnUzMWN5ZXg4YWt0eTh0eW5hODk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 </div>
 <h3 align="center">Backend | Java | SpringBoot | Spring MVC </h3>
 
