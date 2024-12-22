@@ -13,9 +13,9 @@
 <a href="https://dev.to/stenzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stenzr" height="30" width="40" /></a>
 --->
 
-<a href="www.linkedin.com/in/ketan-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkrohitkr01" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ketan-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-raj" height="30" width="40" /></a>
 <a href="https://medium.com/p/3d2f6463c756" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="ketanrajupsc" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ketanrajmath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stenzr" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ketanrajmath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketanraj15" height="30" width="40" /></a>
 </p>
 
 </br></br>
