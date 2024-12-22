@@ -41,10 +41,55 @@
 </br>
 </br></br>
 <h3 align="center">Tools I have experience with:</h3>
-</br>
-<p align="center"> <a href="#"  rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> 
-
+<br />
+<p align="center">
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/kafka.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/spring.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/redis.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/postman.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
+
 
 <!---
 </br>
