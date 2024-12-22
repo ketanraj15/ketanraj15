@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">Backend | Java | SpringBoot | Spring MVC </h3>
 
-</br></br></br></br>
+</br></br>
 
 <h3 align="center">Connect with me on:</h3>
 </br>
@@ -13,7 +13,7 @@
 <a href="https://dev.to/stenzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stenzr" height="30" width="40" /></a>
 --->
 <a href="https://twitter.com/rkrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rkrohit01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rkrohitkr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkrohitkr01" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ketan-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkrohitkr01" height="30" width="40" /></a>
 <a href="https://kaggle.com/stenzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stenzr" height="30" width="40" /></a>
 <!---
 <a href="https://instagram.com/__rohit.kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rohit.kumar_" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stenzr](https://github.com/ketanraj15)
 
-- 💬 Ask me about ** SpringBoot, Kafka, MySql, SpringAI, mongoDB, **
+- 💬 Ask me about **SpringBoot, Kafka, MySql, SpringAI, mongoDB**
 
 - 📫 How to reach me **ketanrajmath@gmail.com**
 
