@@ -1,29 +1,35 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdxMXdrazZ4bWF2NHM4MTN1dnUzMWN5ZXg4YWt0eTh0eW5hODk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdxMXdrazZ4bWF2NHM4MTN1dnUzMWN5ZXg4YWt0eTh0eW5hODk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100" />
 </div>
-<h3 align="center"> Java | SpringBoot | Spring MVC | Angular  </h3>
-<h3 align="center">Microservices | Message Brokers | SpringAI | Web Security | Vector Databases </h3>
 
-</br>
+<h3 align="center">Java | SpringBoot | Spring MVC | Angular</h3>
+<h3 align="center">Microservices | Message Brokers | SpringAI | Web Security | Vector Databases</h3>
+
+<br />
 
 <h3 align="center">Connect with me on:</h3>
-</br>
+<br />
 <p align="center">
- <!--- 
-<a href="https://dev.to/stenzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stenzr" height="30" width="40" /></a>
---->
-
-<a href="www.linkedin.com/in/ketan-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-raj" height="30" width="40" /></a>
-<a href="https://medium.com/p/3d2f6463c756" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="ketanrajupsc" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ketanrajmath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketanraj15" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ketan-raj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-raj" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/p/3d2f6463c756" target="blank">
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="ketanrajupsc" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/ketanrajmath/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketanraj15" height="30" width="40" />
+  </a>
 </p>
 
+
 <p align="center">
  <!--- 
 <a href="https://dev.to/stenzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stenzr" height="30" width="40" /></a>
 --->
-
+<a href="https://twitter.com/rkrohit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rkrohit01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rkrohitkr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkrohitkr01" height="30" width="40" /></a>
+<a href="https://kaggle.com/stenzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stenzr" height="30" width="40" /></a>
 <!---
 <a href="https://instagram.com/__rohit.kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rohit.kumar_" height="30" width="40" /></a>
 --->
