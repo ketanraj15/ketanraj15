@@ -30,11 +30,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stenzr](https://github.com/ketanraj15)
 
-- 💬 Ask me about **SpringBoot, Kafka, MySql, SpringAI, mongoDB**
+- 💬 Ask me about **SpringBoot, Kafka, Redis Cache, MySql, SpringAI, mongoDB, Authentications**
 
 - 📫 How to reach me **ketanrajmath@gmail.com**
 
-- 📄 Know about my experiences [https://stenzr.github.io/](https://stenzr.github.io/)
+- 📄 Know about my experiences [https://github.com/ketanraj15/](https://github.com/ketanraj15/)
 
 - 🐢  **Lazy Kachua**
 </br>
